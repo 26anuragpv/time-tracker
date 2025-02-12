@@ -10,7 +10,7 @@ Simple Java-app using Maven.
 
 Standard maven targets for building.
 
-Requirements: no requirements bro
+Requirements: yess
 
 * JDK 17+
 * Maven 3.8+
